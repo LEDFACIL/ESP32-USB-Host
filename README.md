@@ -5,7 +5,7 @@ Video completo ->
 
 Código -> https://github.com/LEDFACIL/ESP32-USB-Host/blob/main/USB.ino
 
-![INFO]([https://github.com/LEDFACIL/HUB12/blob/main/info.jpg](https://github.com/LEDFACIL/ESP32-USB-Host/blob/main/conexion.png))
+![INFO](https://github.com/LEDFACIL/ESP32-USB-Host/blob/main/conexion.png)
 
 Si compartes, por favor respeta la autoría de este contenido.
 
