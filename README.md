@@ -1,7 +1,7 @@
 # ESP32-USB-Host
 Obtener datos en un ESP32, provenientes desde dispositivos USB elementales.
 
-Video completo -> 
+Video completo -> https://youtu.be/kusJIDDmLes
 
 Código -> https://github.com/LEDFACIL/ESP32-USB-Host/blob/main/USB.ino
 
