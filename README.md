@@ -9,10 +9,14 @@ Código -> https://github.com/LEDFACIL/ESP32-USB-Host/blob/main/USB.ino
 
 Te gustaría hacer lo mismo pero con un mando inalámbrico? -> https://youtu.be/YDkq17-ae6s
 
-Si compartes, por favor respeta la autoría de este contenido.
+📌Si compartís, por favor respetá la autoría de este contenido, sería un buen gesto dejar un enlace al repo. 😉
 
-Para descargar todos estos recursos de una sola vez, ir al botón verde arriba a la derecha "Code" y luego en el menú que se despliega seleccionar "Download ZIP".
+📌Podés encontrarme [acá](https://lasso-tech.com/contacto/).
 
-Éxito con eso!!!
+📌Para descargar todos estos recursos de una sola vez, ir al botón verde arriba a la derecha "Code" y luego en el menú que se despliega seleccionar "Download ZIP".
 
-Damián G. Lasso -> https://ledfacil.com.ar/ & https://lasso-tech.com/
+💪 Éxito con eso!!!
+
+---
+
+### 🤓 By **Damián G. Lasso** 🌐 [LASSO-TECH](https://lasso-tech.com/) Electrónica aplicada & soluciones.
